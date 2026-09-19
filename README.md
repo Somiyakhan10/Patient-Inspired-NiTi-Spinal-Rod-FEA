@@ -27,10 +27,6 @@ scoliotic spine and simulates its mechanical response under a
 40 N corrective load. The goal is to evaluate the stress distribution 
 and safety margin of the spine under clinically relevant loading.
 
-The work is inspired by ongoing research at Manisa Celal Bayar 
-University by **Prof. Ahu Celebi** and **Prof. Mohammad Elahinia** 
-on patient-specific functionally graded NiTi-SMA rods for scoliosis 
-treatment.
 
 ---
 
